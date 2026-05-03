@@ -99,6 +99,33 @@ If you're an English speaker following this curriculum, **double the hanzi targe
 
 ## Curriculum detail
 
+### Lecture series
+
+| # | Title | Length |
+|---|-------|--------|
+| 01 | [Today is the Day You Should Start Reading Chinese](docs/en/lecture-intro.md) | ~12 min |
+| 02 | [Why You Memorize Domain Vocabulary First](docs/en/lecture-02.md) | ~9 min |
+| 03 | [Why Fifteen Grammar Patterns Is Enough](docs/en/lecture-03.md) | ~9 min |
+| 04 | [Reading Our First ModelScope Model Card Together](docs/en/lecture-04.md) | ~11 min |
+
+The four lectures above are an orientation series — watch each one before starting the corresponding phase. In order, they cover why a reading-only learning path is viable (intro), where to start memorizing (02), how far grammar needs to go (03), and how to disassemble a real model card (04).
+
+### Study guides (the actual coursework)
+
+Long-form study guides that pair with the lecture videos. Written to be readable end-to-end — narrative explanations with worked examples, not just bullet points.
+
+| # | Title | Length |
+|---|-------|--------|
+| **00** | **[Zero-Stage for Total Beginners](docs/en/guide-00-foundations.md)** | 30-45 min read |
+| 01 | [Strategy and the 4-Month Plan](docs/en/guide-01-curriculum.md) | 30 min read |
+| 02 | [Vocabulary Mastery (onboarding → 220-word graduation)](docs/en/guide-02-vocabulary.md) | 45 min read + weekly reference |
+| 03 | [Grammar Mastery (15 patterns, intro → deep)](docs/en/guide-03-grammar.md) | 60 min read + revisit per pattern |
+| 04 | [Reading Model Cards (5-paragraph graduation)](docs/en/guide-04-model-card.md) | 60 min read + per-card reference |
+
+**Guide 00 is the entry point for learners who have never seen Chinese before.** It walks you through what Hanzi are, how radicals carry meaning, how pinyin and tones work — at the level needed to start guide 02 without being lost. Read it once before opening guides 01-04.
+
+### Reference documents
+
 - [Grammar examples (15 patterns + 4 bonus)](docs/en/grammar.md)
 - [GitHub Issue templates in Chinese](docs/en/github-issue-template.md)
 - [Weekly progress checklist](docs/en/checklist.md)
