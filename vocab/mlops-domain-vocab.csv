@@ -1,0 +1,220 @@
+hanzi,pinyin,ko,en,category_zh,category_ko,category_en,tags
+模型,mó xíng,모델,model,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+训练,xùn liàn,훈련,training,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+推理,tuī lǐ,추론,inference,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+微调,wēi tiáo,파인튜닝,fine-tuning,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+预训练,yù xùn liàn,사전학습,pre-training,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+蒸馏,zhēng liú,증류,distillation,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+量化,liàng huà,양자화,quantization,模型与架构,모델·아키텍처,Models & Architecture,mlops opt
+剪枝,jiǎn zhī,가지치기,pruning,模型与架构,모델·아키텍처,Models & Architecture,mlops opt
+对齐,duì qí,정렬,alignment,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+神经网络,shén jīng wǎng luò,신경망,neural network,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+深度学习,shēn dù xué xí,딥러닝,deep learning,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+机器学习,jī qì xué xí,머신러닝,machine learning,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+强化学习,qiáng huà xué xí,강화학습,reinforcement learning,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+监督学习,jiān dū xué xí,지도학습,supervised learning,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+无监督学习,wú jiān dū xué xí,비지도학습,unsupervised learning,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+自监督学习,zì jiān dū xué xí,자기지도학습,self-supervised learning,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+注意力机制,zhù yì lì jī zhì,어텐션 메커니즘,attention mechanism,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+自注意力,zì zhù yì,셀프 어텐션,self-attention,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+多头注意力,duō tóu zhù yì,멀티 헤드 어텐션,multi-head attention,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+位置编码,wèi zhì biān mǎ,위치 인코딩,positional encoding,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+嵌入,qiàn rù,임베딩,embedding,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+词嵌入,cí qiàn rù,워드 임베딩,word embedding,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+张量,zhāng liàng,텐서,tensor,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+矩阵,jǔ zhèn,행렬,matrix,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+向量,xiàng liàng,벡터,vector,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+标量,biāo liàng,스칼라,scalar,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+梯度,tī dù,기울기,gradient,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+反向传播,fǎn xiàng chuán bō,역전파,backpropagation,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+前向传播,qián xiàng chuán bō,순전파,forward propagation,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+损失函数,sǔn shī hán shù,손실 함수,loss function,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+激活函数,jī huó hán shù,활성화 함수,activation function,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+优化器,yōu huà qì,옵티마이저,optimizer,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+学习率,xué xí lǜ,학습률,learning rate,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+批大小,pī dà xiǎo,배치 사이즈,batch size,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+轮次,lún cì,에폭,epoch,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+迭代,dié dài,이터레이션,iteration,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+过拟合,guò nǐ hé,과적합,overfitting,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+欠拟合,qiàn nǐ hé,과소적합,underfitting,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+泛化,fàn huà,일반화,generalization,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+正则化,zhèng zé huà,규제,regularization,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+归一化,guī yī huà,정규화,normalization,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+大语言模型,dà yǔ yán mó xíng,대규모 언어모델,large language model,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+基础模型,jī chǔ mó xíng,기반 모델,foundation model,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+多模态,duō mó tài,멀티모달,multimodal,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+上下文窗口,shàng xià wén chuāng kǒu,컨텍스트 윈도우,context window,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+提示词,tí shì cí,프롬프트,prompt,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+提示工程,tí shì gōng chéng,프롬프트 엔지니어링,prompt engineering,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+检索增强,jiǎn suǒ zēng qiáng,검색 증강 (RAG),retrieval-augmented generation,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+向量数据库,xiàng liàng shù jù kù,벡터 데이터베이스,vector database,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+分词,fēn cí,토큰화,tokenization,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+词元,cí yuán,토큰,token,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+词汇表,cí huì biǎo,어휘 사전,vocabulary,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+解码,jiě mǎ,디코딩,decoding,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+编码,biān mǎ,인코딩,encoding,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+温度,wēn dù,온도 (샘플링),temperature,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+采样,cǎi yàng,샘플링,sampling,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+束搜索,shù sōu suǒ,빔 서치,beam search,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+贪心解码,tān xīn jiě mǎ,그리디 디코딩,greedy decoding,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+零样本,líng yàng běn,제로샷,zero-shot,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+少样本,shǎo yàng běn,퓨샷,few-shot,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+思维链,sī wéi liàn,사고의 사슬 (CoT),chain of thought,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+指令微调,zhǐ lìng wēi tiáo,지시 튜닝,instruction tuning,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+人类反馈强化学习,rén lèi fǎn kuì qiáng huà xué xí,RLHF,reinforcement learning from human feedback,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+直接偏好优化,zhí jiē piān hào yōu huà,DPO,direct preference optimization,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+低秩适配,dī zhì shì pèi,LoRA (저랭크 적응),low-rank adaptation,模型与架构,모델·아키텍처,Models & Architecture,mlops opt
+适配器,shì pèi qì,어댑터,adapter,模型与架构,모델·아키텍처,Models & Architecture,mlops opt
+混合专家,hùn hé zhuān jiā,전문가 혼합 (MoE),mixture of experts,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+扩散模型,kuò sàn mó xíng,디퓨전 모델,diffusion model,模型与架构,모델·아키텍처,Models & Architecture,mlops vision
+生成式,shēng chéng shì,생성형,generative,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+判别式,pàn bié shì,판별형,discriminative,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+卷积神经网络,juǎn jī shén jīng wǎng luò,합성곱 신경망 (CNN),convolutional neural network,模型与架构,모델·아키텍처,Models & Architecture,mlops vision
+循环神经网络,xún huán shén jīng wǎng luò,순환 신경망 (RNN),recurrent neural network,模型与架构,모델·아키텍처,Models & Architecture,mlops basic
+变换器,biàn huàn qì,트랜스포머,Transformer,模型与架构,모델·아키텍처,Models & Architecture,mlops llm
+部署,bù shǔ,배포,deploy,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+容器,róng qì,컨테이너,container,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+镜像,jìng xiàng,(도커) 이미지,image,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+容器化,róng qì huà,컨테이너화,containerization,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+集群,jí qún,클러스터,cluster,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+节点,jié diǎn,노드,node,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+显卡,xiǎn kǎ,GPU 카드,GPU,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+显存,xiǎn cún,VRAM,GPU memory,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+内存,nèi cún,RAM,memory,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+算力,suàn lì,컴퓨팅 파워,compute power,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+推理服务,tuī lǐ fú wù,추론 서비스,inference service,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+负载均衡,fù zài jūn héng,로드 밸런싱,load balancing,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+弹性伸缩,tán xìng shēn suō,오토 스케일링,auto scaling,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+水平扩展,shuǐ píng kuò zhǎn,수평 확장,horizontal scaling,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+垂直扩展,chuí zhí kuò zhǎn,수직 확장,vertical scaling,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+监控,jiān kòng,모니터링,monitoring,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+日志,rì zhì,로그,log,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+告警,gào jǐng,알림,alert,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+追踪,zhuī zōng,트레이싱,tracing,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+分布式,fēn bù shì,분산,distributed,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+并行,bìng xíng,병렬,parallel,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+张量并行,zhāng liàng bìng xíng,텐서 병렬,tensor parallelism,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+流水线并行,liú shuǐ xiàn bìng xíng,파이프라인 병렬,pipeline parallelism,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+数据并行,shù jù bìng xíng,데이터 병렬,data parallelism,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+异步,yì bù,비동기,asynchronous,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+同步,tóng bù,동기,synchronous,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+缓存,huǎn cún,캐시,cache,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+队列,duì liè,큐,queue,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+消息队列,xiāo xī duì liè,메시지 큐,message queue,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+微服务,wēi fú wù,마이크로서비스,microservice,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+接口,jiē kǒu,API/인터페이스,API,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+端点,duān diǎn,엔드포인트,endpoint,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+请求,qǐng qiú,요청,request,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+响应,xiǎng yìng,응답,response,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+鉴权,jiàn quán,인증,authentication,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+密钥,mì yào,비밀키,secret key,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+配置,pèi zhì,설정,configuration,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+环境变量,huán jìng biàn liàng,환경변수,environment variable,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+依赖,yī lài,의존성,dependency,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+版本,bǎn běn,버전,version,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+回滚,huí gǔn,롤백,rollback,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+灰度发布,huī dù fā bù,카나리 릴리스,canary release,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+蓝绿部署,lán lǜ bù shǔ,블루-그린 배포,blue-green deployment,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+持续集成,chí xù jí chéng,지속적 통합 (CI),continuous integration,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+持续部署,chí xù bù shǔ,지속적 배포 (CD),continuous deployment,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+流水线,liú shuǐ xiàn,파이프라인,pipeline,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+工作流,gōng zuò liú,워크플로,workflow,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+调度,diào dù,스케줄링,scheduling,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+定时任务,dìng shí rèn wù,크론 작업,cron job,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+存储,cún chǔ,스토리지,storage,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+对象存储,duì xiàng cún chǔ,오브젝트 스토리지,object storage,基础设施与部署,인프라·배포,Infrastructure & Deployment,mlops infra
+吞吐量,tūn tǔ liàng,처리량,throughput,性能与评估,성능·평가,Performance & Evaluation,mlops perf
+时延,shí yán,지연시간,latency,性能与评估,성능·평가,Performance & Evaluation,mlops perf
+延迟,yán chí,지연,delay,性能与评估,성능·평가,Performance & Evaluation,mlops perf
+首词时延,shǒu cí shí yán,첫 토큰 지연 (TTFT),time to first token,性能与评估,성능·평가,Performance & Evaluation,mlops perf
+每秒生成词数,měi miǎo shēng chéng cí shù,초당 토큰 생성 수,tokens per second,性能与评估,성능·평가,Performance & Evaluation,mlops perf
+准确率,zhǔn què lǜ,정확도,accuracy,性能与评估,성능·평가,Performance & Evaluation,mlops perf
+召回率,zhào huí lǜ,재현율,recall,性能与评估,성능·평가,Performance & Evaluation,mlops perf
+精确率,jīng què lǜ,정밀도,precision,性能与评估,성능·평가,Performance & Evaluation,mlops perf
+困惑度,kùn huò dù,혼란도,perplexity,性能与评估,성능·평가,Performance & Evaluation,mlops perf
+基准测试,jī zhǔn cè shì,벤치마크,benchmark,性能与评估,성능·평가,Performance & Evaluation,mlops perf
+评估,píng gū,평가,evaluation,性能与评估,성능·평가,Performance & Evaluation,mlops perf
+指标,zhǐ biāo,지표,metric,性能与评估,성능·평가,Performance & Evaluation,mlops perf
+压力测试,yā lì cè shì,부하 테스트,stress test,性能与评估,성능·평가,Performance & Evaluation,mlops perf
+性能,xìng néng,성능,performance,性能与评估,성능·평가,Performance & Evaluation,mlops perf
+优化,yōu huà,최적화,optimization,性能与评估,성능·평가,Performance & Evaluation,mlops perf
+加速,jiā sù,가속화,acceleration,性能与评估,성능·평가,Performance & Evaluation,mlops perf
+瓶颈,píng jǐng,병목,bottleneck,性能与评估,성능·평가,Performance & Evaluation,mlops perf
+内存占用,nèi cún zhàn yòng,메모리 사용량,memory usage,性能与评估,성능·평가,Performance & Evaluation,mlops perf
+计算量,jì suàn liàng,연산량 (FLOPs),computational cost,性能与评估,성능·평가,Performance & Evaluation,mlops perf
+参数量,cān shù liàng,파라미터 수,parameter count,性能与评估,성능·평가,Performance & Evaluation,mlops perf
+排行榜,pái háng bǎng,리더보드,leaderboard,性能与评估,성능·평가,Performance & Evaluation,mlops perf
+数据集,shù jù jí,데이터셋,dataset,数据与流水线,데이터·파이프라인,Data & Pipeline,mlops data
+样本,yàng běn,샘플,sample,数据与流水线,데이터·파이프라인,Data & Pipeline,mlops data
+特征,tè zhēng,피처,feature,数据与流水线,데이터·파이프라인,Data & Pipeline,mlops data
+标签,biāo qiān,레이블,label,数据与流水线,데이터·파이프라인,Data & Pipeline,mlops data
+标注,biāo zhù,어노테이션,annotation,数据与流水线,데이터·파이프라인,Data & Pipeline,mlops data
+清洗,qīng xǐ,클렌징,cleaning,数据与流水线,데이터·파이프라인,Data & Pipeline,mlops data
+预处理,yù chǔ lǐ,전처리,preprocessing,数据与流水线,데이터·파이프라인,Data & Pipeline,mlops data
+后处理,hòu chǔ lǐ,후처리,postprocessing,数据与流水线,데이터·파이프라인,Data & Pipeline,mlops data
+特征工程,tè zhēng gōng chéng,피처 엔지니어링,feature engineering,数据与流水线,데이터·파이프라인,Data & Pipeline,mlops data
+数据增强,shù jù zēng qiáng,데이터 증강,data augmentation,数据与流水线,데이터·파이프라인,Data & Pipeline,mlops data
+训练集,xùn liàn jí,학습셋,training set,数据与流水线,데이터·파이프라인,Data & Pipeline,mlops data
+验证集,yàn zhèng jí,검증셋,validation set,数据与流水线,데이터·파이프라인,Data & Pipeline,mlops data
+测试集,cè shì jí,테스트셋,test set,数据与流水线,데이터·파이프라인,Data & Pipeline,mlops data
+划分,huà fēn,분할,split,数据与流水线,데이터·파이프라인,Data & Pipeline,mlops data
+平衡,píng héng,밸런싱,balancing,数据与流水线,데이터·파이프라인,Data & Pipeline,mlops data
+不平衡,bù píng héng,불균형,imbalanced,数据与流水线,데이터·파이프라인,Data & Pipeline,mlops data
+噪声,zào shēng,노이즈,noise,数据与流水线,데이터·파이프라인,Data & Pipeline,mlops data
+异常值,yì cháng zhí,이상치,outlier,数据与流水线,데이터·파이프라인,Data & Pipeline,mlops data
+缺失值,quē shī zhí,결측치,missing value,数据与流水线,데이터·파이프라인,Data & Pipeline,mlops data
+特征提取,tè zhēng tí qǔ,피처 추출,feature extraction,数据与流水线,데이터·파이프라인,Data & Pipeline,mlops data
+特征选择,tè zhēng xuǎn zé,피처 선택,feature selection,数据与流水线,데이터·파이프라인,Data & Pipeline,mlops data
+降维,jiàng wéi,차원 축소,dimensionality reduction,数据与流水线,데이터·파이프라인,Data & Pipeline,mlops data
+合成数据,hé chéng shù jù,합성 데이터,synthetic data,数据与流水线,데이터·파이프라인,Data & Pipeline,mlops data
+真实数据,zhēn shí shù jù,실제 데이터,real data,数据与流水线,데이터·파이프라인,Data & Pipeline,mlops data
+开源,kāi yuán,오픈소스,open-source,通用,일반,General,mlops common
+闭源,bì yuán,클로즈드소스,closed-source,通用,일반,General,mlops common
+开发者,kāi fā zhě,개발자,developer,通用,일반,General,mlops common
+仓库,cāng kù,레포지토리,repository,通用,일반,General,mlops common
+分支,fēn zhī,브랜치,branch,通用,일반,General,mlops common
+合并,hé bìng,머지,merge,通用,일반,General,mlops common
+冲突,chōng tū,충돌,conflict,通用,일반,General,mlops common
+拉取,lā qǔ,풀,pull,通用,일반,General,mlops common
+推送,tuī sòng,푸시,push,通用,일반,General,mlops common
+提交,tí jiāo,커밋,commit,通用,일반,General,mlops common
+克隆,kè lóng,클론,clone,通用,일반,General,mlops common
+派生,pài shēng,포크,fork,通用,일반,General,mlops common
+问题,wèn tí,이슈,issue,通用,일반,General,mlops common
+报错,bào cuò,에러 발생,error occurred,通用,일반,General,mlops common
+错误,cuò wù,에러,error,通用,일반,General,mlops common
+异常,yì cháng,예외,exception,通用,일반,General,mlops common
+警告,jǐng gào,경고,warning,通用,일반,General,mlops common
+调试,tiáo shì,디버깅,debugging,通用,일반,General,mlops common
+复现,fù xiàn,재현하다,reproduce,通用,일반,General,mlops common
+日志输出,rì zhì shū chū,로그 출력,log output,通用,일반,General,mlops common
+堆栈跟踪,duī zhàn gēn zōng,스택 트레이스,stack trace,通用,일반,General,mlops common
+内核,nèi hé,커널,kernel,通用,일반,General,mlops common
+驱动,qū dòng,드라이버,driver,通用,일반,General,mlops common
+框架,kuàng jià,프레임워크,framework,通用,일반,General,mlops common
+库,kù,라이브러리,library,通用,일반,General,mlops common
+脚本,jiǎo běn,스크립트,script,通用,일반,General,mlops common
+代码,dài mǎ,코드,code,通用,일반,General,mlops common
+文档,wén dàng,문서,documentation,通用,일반,General,mlops common
+教程,jiào chéng,튜토리얼,tutorial,通用,일반,General,mlops common
+示例,shì lì,예시,example,通用,일반,General,mlops common
+案例,àn lì,사례,case,通用,일반,General,mlops common
+方案,fāng àn,솔루션,solution,通用,일반,General,mlops common
+功能,gōng néng,기능,functionality,通用,일반,General,mlops common
+特性,tè xìng,특성,feature,通用,일반,General,mlops common
+属性,shǔ xìng,속성,attribute,通用,일반,General,mlops common
+参数,cān shù,파라미터,parameter,通用,일반,General,mlops common
+超参数,chāo cān shù,하이퍼파라미터,hyperparameter,通用,일반,General,mlops common
+权重,quán zhòng,가중치,weight,通用,일반,General,mlops common
+偏置,piān zhì,편향,bias,通用,일반,General,mlops common
+检查点,jiǎn chá diǎn,체크포인트,checkpoint,通用,일반,General,mlops common
+保存,bǎo cún,저장,save,通用,일반,General,mlops common
+加载,jiā zǎi,로드,load,通用,일반,General,mlops common
+导入,dǎo rù,임포트,import,通用,일반,General,mlops common
+导出,dǎo chū,익스포트,export,通用,일반,General,mlops common
+转换,zhuǎn huàn,변환,convert,通用,일반,General,mlops common
+兼容,jiān róng,호환,compatible,通用,일반,General,mlops common
+不兼容,bù jiān róng,비호환,incompatible,通用,일반,General,mlops common
+弃用,qì yòng,사용 중단 (deprecated),deprecate,通用,일반,General,mlops common
+更新,gēng xīn,업데이트,update,通用,일반,General,mlops common
+升级,shēng jí,업그레이드,upgrade,通用,일반,General,mlops common
